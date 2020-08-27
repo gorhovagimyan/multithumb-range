@@ -1,6 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+Clone the repository then go to cloned folder open the terminal and run the command
+
+### `npm i`
 
 In the project directory, you can run:
 
